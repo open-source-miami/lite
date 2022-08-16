@@ -1,5 +1,3 @@
-# Open Source Miami
-
 This is what happens when the community gets together and decides to collaborate on open source projects, they create an organization that is focused building great things.  
 
 Billions of people around the world benefit from open source software, and frankly it is hard to imagine where we would be without it. Open source software drives innovation, and it creates solutions that address almost every problem imaginable.
